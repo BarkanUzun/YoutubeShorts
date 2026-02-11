@@ -1,0 +1,6 @@
+{
+  "output_dir": "outputs",
+  "speech_speed": 1.0,
+  "max_title_length": 60,
+  "ffmpeg_zoom_max": 1.2
+}
